@@ -1,0 +1,1 @@
+This is a practise for the HNG-i7 internship project
